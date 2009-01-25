@@ -4,6 +4,14 @@
 
 Quicksilver Say is a plugin for the popular Quicksilver application launcher that provides an interface for the OS X text-to-speech `say` command. This plugin can be used to invoke `say` from Quicksilver, providing an alternative to the terminal.
 
+== INSTALL:
+
+Download Xcode project and build from source, or download Say Plugin.qsplugin.zip, uncompress it, and double-click Say Plugin.qsplugin to install.
+
+== USAGE:
+
+Select an application from Quicksilver, or enter any string of text, tab over to the secondary menu, and select "Say it!" to hear the string read by your default text-to-speech voice, changeable in VoiceOver Utility.
+
 == SOURCE:
 
 The source code for Quicksilver Say is available at http://github.com/dancavallaro/quicksilver-say/tree/master
