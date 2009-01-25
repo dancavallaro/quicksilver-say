@@ -1,0 +1,27 @@
+= Quicksilver Say
+
+== DESCRIPTION:
+
+Quicksilver Say is a plugin for the popular Quicksilver application launcher that provides an interface for the OS X text-to-speech `say` command. This plugin can be used to invoke `say` from Quicksilver, providing an alternative to the terminal.
+
+== SOURCE:
+
+The source code for Quicksilver Say is available at http://github.com/dancavallaro/quicksilver-say/tree/master
+
+== LICENSE:
+
+Quicksilver Say - Quicksilver plugin for `say` command
+Copyright 2009 Dan Cavallaro
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+ 
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+  
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <http://www.gnu.org/licenses/>.
