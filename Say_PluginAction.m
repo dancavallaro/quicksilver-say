@@ -11,6 +11,15 @@
 @implementation Say_PluginAction
 
 - (QSObject *)performActionOnObject:(QSObject *)dObject{
+	NSString *passedText;
+	NSString *commandString;
+	
+	passedText = [dObject stringValue];
+	commandString = [NSString stringWithFormat:@"say %@", passedText];
+	
+	const char *cmdStr = [commandString cStringUsingEncoding:NSUTF8StringEncoding];
+	system(cmdStr);
+	
 	return nil;
 }
 @end

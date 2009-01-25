@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		32DBCF980370C29C00C91783 /* Say_Plugin_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Say_Plugin_Prefix.pch; sourceTree = "<group>"; };
+		32DBCF980370C29C00C91783 /* Say Plugin_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Say Plugin_Prefix.pch"; sourceTree = "<group>"; };
 		7F35FF3C07F9ACD90056051D /* QSCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QSCore.framework; sourceTree = QSFrameworks; };
 		7F35FF3D07F9ACD90056051D /* QSEffects.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QSEffects.framework; sourceTree = QSFrameworks; };
 		7F35FF3E07F9ACD90056051D /* QSFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QSFoundation.framework; sourceTree = QSFrameworks; };
@@ -105,7 +105,7 @@
 		32DBCF9F0370C38200C91783 /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
-				32DBCF980370C29C00C91783 /* Say_Plugin_Prefix.pch */,
+				32DBCF980370C29C00C91783 /* Say Plugin_Prefix.pch */,
 			);
 			name = "Other Sources";
 			sourceTree = "<group>";

@@ -15,12 +15,12 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleVersion</key>
-	<string>1A</string>
+	<string>26</string>
 	<key>NSPrincipalClass</key>
 	<string>Say_Plugin</string>
-	<key>QSActionsTemplate</key>
+	<key>QSActions</key>
 	<dict>
-		<key>Say_PluginAction</key>
+		<key>say</key>
 		<dict>
 			<key>actionClass</key>
 			<string>Say_PluginAction</string>
@@ -28,7 +28,7 @@
 			<string>performActionOnObject:</string>
 			<key>directTypes</key>
 			<array>
-				<string>Say_PluginType</string>
+				<string>*</string>
 			</array>
 			<key>name</key>
 			<string>Action: Say_Plugin</string>
@@ -46,9 +46,9 @@
 			<string>System</string>
 		</array>
 		<key>description</key>
-		<string>Plugin for using the system text-to-speech command (&apos;say&apos;) via QuickSilver</string>
+		<string>Plugin for using the system text-to-speech command ('say') via QuickSilver</string>
 		<key>icon</key>
-		<string></string>
+		<string>com.apple.VoiceOverUtility</string>
 		<key>qsversion</key>
 		<string>29CC</string>
 		<key>relatedBundles </key>
