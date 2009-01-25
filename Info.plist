@@ -15,7 +15,7 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleVersion</key>
-	<string>26</string>
+	<string>27</string>
 	<key>NSPrincipalClass</key>
 	<string>Say_Plugin</string>
 	<key>QSActions</key>
@@ -31,7 +31,7 @@
 				<string>*</string>
 			</array>
 			<key>name</key>
-			<string>Action: Say_Plugin</string>
+			<string>Say it!</string>
 			<key>validatesObjects</key>
 			<false/>
 		</dict>
